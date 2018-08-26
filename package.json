@@ -1,0 +1,23 @@
+{
+  "name": "notebooks",
+  "version": "1.0.0",
+  "description": "### Jupyter installation ```bash virtualenv --python=python3 .env source .env/bin/activate python3 -m pip install --upgrade pip python3 -m pip install jupyter ```",
+  "main": "''",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngleNet/notebooks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngleNet/notebooks/issues"
+  },
+  "homepage": "https://github.com/AngleNet/notebooks#readme",
+  "dependencies": {
+    "itypescript": "^0.2.2"
+  },
+  "devDependencies": {}
+}
